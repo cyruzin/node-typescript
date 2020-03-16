@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  web:
+    container_name: arbid-api-boilerplate
+    build: .
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/src:cached
