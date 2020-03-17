@@ -1,7 +1,7 @@
 {
   "name": "api-boilerplate",
   "version": "0.0.1",
-  "description": "Airbid API boilerplate.",
+  "description": "API boilerplate.",
   "main": "src/app.ts",
   "scripts": {
     "start": "nodemon src/app.ts",
@@ -11,9 +11,6 @@
     "lint:fix": "tslint ./src/**/**.{ts} --fix"
   },
   "keywords": [
-    "airbid",
-    "stop",
-    "play",
     "boilerplate"
   ],
   "author": "Cyro Dubeux",
