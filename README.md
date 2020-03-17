@@ -1,4 +1,4 @@
-# Arbid - API Boilerplate
+# API Boilerplate
 
 ## Status
 
